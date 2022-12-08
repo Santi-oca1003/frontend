@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;700&display=swap');
+
+body {
+    background-color: rgb(25, 31, 55);
+    color: rgb(254, 254, 254)
+}
+
+#titulo-principal {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.yellow {
+    color: rgb(255, 255, 255);
+}
+.header{background-color: rgb(247, 175, 67);}
